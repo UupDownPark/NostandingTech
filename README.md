@@ -14,4 +14,5 @@ import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css"; 만 삽입을 했는데 자동 슬라이드까지 작동이 잘된다. 나는 무엇을 했으며 index.html 파일 넣은 많은 스크립트 태그 들과 링크 태그들은 왜 넣었는지 의문이 든다. 이 부분에 대해서는 나중에 더 알아보고 내용을 추가하도록 하겠다.
 <br/>
 -3 슬라이더 스타일을 변경하는 방법은 SimpleSlider.js 파일을 보면 있다. 해당 슬라이더의 클래스네임은 개발자도구 요소에서 확인 가능하다.
-<br/> 3.주소지Api
+<br/> 3.주소지Api(다음 우편번호 서비스)
+<br/>
